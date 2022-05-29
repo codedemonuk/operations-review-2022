@@ -1,0 +1,15 @@
+{
+  "name": "operations-review-2022",
+  "version": "0.1.0",
+  "description": "Presentation to Operations Review Committee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\"",
+    "deck": "npx reveal-md src/index.md --watch"
+  },
+  "author": "Pervez Choudhury",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^5.3.3"
+  }
+}
