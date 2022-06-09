@@ -6,7 +6,6 @@ revealOptions:
     transition: 'fade'
 ---
 
-
 <!-- .slide: data-background="./img/jack-b-LtotBngNZZU-unsplash.jpg" -->
 ## Community Safety and Performance
 
@@ -153,15 +152,19 @@ Note:
 
 ### Hybrid working as a result of Covid
 
-As you are aware IDS has been going through a lot of change over the last year, as a continuation of the impact from Covid. HBC Staff have been returning back to work and this has led to our Hybrid working strategy where staff are able to work from home 2 days a week and work in the office for the remainder 3 days.
+As you are aware IDS has been going through a lot of change over the last year, as a continuation of the impact from Covid.
+HBC Staff have been returning back to work and this has led to our Hybrid working strategy where staff are able to work from home 2 days a week and work in the office for the remainder 3 days.
 
 ### Migration of systems to Cloud
 
-To allow this new way of working to be a success we have commenced with a migration of our systems to the Cloud and also working to enable a mobile and agile workforce. The technology will take some time to bed in and engineer the transition of data and systems access to the cloud, and we will also need to allow time to train staff to use the updated systems.
+To allow this new way of working to be a success we have commenced with a migration of our systems to the Cloud and also working to enable a mobile and agile workforce.
+The technology will take some time to bed in and engineer the transition of data and systems access to the cloud, and we will also need to allow time to train staff to use the updated systems.
 
 ### Improvement to Workforce
 
-The premises are undergoing change to develop and improve work areas, with agile working in mind to allow staff flexibility in desk sharing and shared office areas. The office spaces will benefit from a fresh and appealing change to enhance the aesthetics of our working environment, which will have a positive impact on staff wellbeing. The mobile technology will be a key part of ensuring the new areas allow for staff movements and we are looking forward to improved use of MS Teams and new meeting areas.
+The premises are undergoing change to develop and improve work areas, with agile working in mind to allow staff flexibility in desk sharing and shared office areas.
+The office spaces will benefit from a fresh and appealing change to enhance the aesthetics of our working environment, which will have a positive impact on staff wellbeing.
+The mobile technology will be a key part of ensuring the new areas allow for staff movements and we are looking forward to improved use of MS Teams and new meeting areas.
 
 +++
 
@@ -179,7 +182,7 @@ Note:
 
 - Provided data for FOI responses for Environmental Health and Licensing, Parking, Planning, Finance, IDS
 - System setup and testing for Windows 7 replacement platforms (Azure, Horizon, RDS)
- 
+
 ### IDOX UNIFORM (Planning, Environmental Health and Licensing, Asset Management, Land Charges, Housing, DMS, Public Access)
 
 - Provided weekly DEFRA taxi vehicle report
@@ -221,9 +224,11 @@ Note:
 Note:
 
 - Continuing move of on premise infrastructure to Azure
-- O365 and Azure infrastructure backed up to the Azure using Veeam and also staged to AWS for resilience.
-- Equipment provided to officer to facilitate hybrid working environment. (Extra screens, keyboards, headsets etc.)
-- RDS (Remote Desktop Service) pilot deployed to support the function of legacy system across the VPN and allow the decommissioning of Windows 7 desktops. (After POC for VMWare Horizon proved cost prohibitive.)
+- Office 365 and Azure infrastructure backed up to the Azure using Veeam and also staged to AWS for resilience.
+- Equipment provided to officer to facilitate hybrid working environment. 
+  (Extra screens, keyboards, headsets etc.)
+- RDS (Remote Desktop Service) pilot deployed to support the function of legacy system across the VPN and allow the decommissioning of Windows 7 desktops. 
+  (After POC for VMWare Horizon proved cost prohibitive.)
 - Migration to cloud telephone system ongoing.
 - Mobile phone contract procured with new supplier.
 - Windows 10 rollout continues.
@@ -245,12 +250,13 @@ Future Work Design
 - Chambers AV system to be reviewed.
 - Councillor devices and needs to be reviewed.
 - Expand Civic Offices Wifi.
- 
+
 Cyber Security
 
 - Most cyber-attacks start with an email
 - We receive an average of 25,000 emails per week and send a similar number.
-- Each week an average of 7,000 additional emails are quarantined and checked by IDS. On average only 100 are released as genuine emails. This is an accuracy rate of approximately 98.5%.
+- Each week an average of 7,000 additional emails are quarantined and checked by IDS. On average only 100 are released as genuine emails. 
+  This is an accuracy rate of approximately 98.5%.
 - In the last 12 months 2,500 direct cyber-attacks from ‘bad actors’ (Russia, North Korea, China etc.) were blocked.
 - Threat from Phishing, Virus, ransomware and port scanning all looking for vulnerabilities in our cyber defences.
 - IDS have to get it right every time, a hacker just has to be lucky once !
@@ -279,8 +285,8 @@ HBC will benefit from the newly built committee rooms with the break out areas t
 - Hillary Shade
 - Judith Fear
 - Liz Gore
-- Mathew Bunyan
 - Valerie Kane
+- Zahid Zarin
 
 Note:
 
