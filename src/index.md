@@ -38,6 +38,112 @@ I will take questions at the end.
 
 ## Community Safety
 
++++
+
+### Hertfordshire Constabulary – Hertsmere Daily Tasking Meetings 
+
+Note:
+
+Since March 2020 either the Community Safety Intervention Officer or Community Safety Manager attends the Police Daily Tasking Meeting, held over Microsoft Teams, chaired by either the Chief Inspector, Inspector or Detective Inspector. 
+The previous 24 hours operational policing in Hertsmere is discussed along with key expectations for the day ahead.  
+Any queries raised regarding housing, tenancy, land ownership, environmental health etc can be resolved in a more timely manner and has proved extremely valuable to both parties. 
+It reinforces our mutual trust and our partnership approach to community safety and is now forms part of our normal daily routine.
+
++++
+
+### Older Person’s Activity Learning and Safety (OPALS) – March 2022
+
+Note:
+
+The Hertsmere Community Safety Partnership and the Hertfordshire Fire and Rescue Service worked collaboratively to host the Older Person’s Activity Learning and Safety (OPALS) event at the Wyllyotts Theatre, in Potters Bar on 31 March 2022. Over 30 residents attended and were able to receive information and advice from a number of organisations including: Hertfordshire Trading Standards, Age UK, Beacon Victim Care, MIND and the Alzheimer’s Society. The event was very well received, with the majority of attendees feeding back that the event was either excellent or good.
+
++++
+
+### Hertsmere’s Safer Streets Initiative
+
+Note:
+
+The Community Safety Team were successfully awarded a grant of £5,000 from the Police and Crime Commissioner’s Fund, in partnership with the Hertfordshire Community Foundation, for the purposes of updating the Safer Streets information folders.
+These folders provides residents with information a variety of services, safety advice and how to contact different organisations.
+The information folder has been reviewed and has been submitted for re-design.
+
+Following the recent fire in Potters Bar, representatives from the Hertfordshire Fire and Rescue Service, the Hertfordshire Constabulary and the Hertsmere Community Safety Team visited the area on the 25 May 2022.
+During the visit, six residents were engaged with, resulting in some referrals to the Neighbourhood Watch and a smoke detector being fitted in one property.
+
++++
+
+### Community Trigger
+
+Note:
+
+The Community Trigger is designed to give victims of anti-social behaviour (ASB) the right to request a review of their case and bring agencies together to take a joined up, problem solving approach to find a solution.
+The Community Trigger can be used if a person has complained to Hertsmere Borough Council, the police and/or a registered housing provider (social landlord) on 3 or more occasions about separate incidents in the past 6 months.
+Each incident must have been reported within one month of it happening. This is the threshold for a community trigger review.
+
+Each area previously chaired their own community trigger review meetings, however advice and best practice from consultant agencies have suggested that reviews be chaired by an independent individual: ideally an officer who works within ASB but not for the local authority, Police or housing association in question.
+Hertsmere’s Community Safety Intervention Officer acted as an independent chair for Welwyn & Hatfield Council in February 2022 and it was felt that having an independent chair meant there was no professional bias upon the case discussion and allowed for a fresh perspective and a higher level of scrutiny on the case management.
+Following this review, Community Safety teams from across Hertfordshire and the HCC Community Safety Unit met and CSPs formally agreed to chair each other’s case reviews or act as an independent case review panel member for future reviews. HCC have put together a Terms of Reference for the process which has been agreed by the areas and submitted to the OPCC.
+
++++
+
+### The No More Service
+
+Note:
+
+The No More Youth Service offers complex needs support to individuals to tackle issues which negatively impact on their daily life. 
+They offer intensive support to prolific offenders and those associated with gang, knife crime, anti-social behaviour and county lines and work with individuals up to age 21 or 25 with special educational needs.
+Hertsmere has 1 No More Service worker who also covers Watford and Three Rivers. The No More Service cases are monitored in the South West Herts Youth Action Panel (SWYAP) which is held every 4 weeks via MS Teams and has attendance from the No More Service, the local authorities, Police, CYP Gangs & Schools Team, SASH and schools.
+Referrals to the No More Service are received on a regular basis, with 3 being received for Hertsmere in April.
+When a referral for a Hertsmere resident is received, the Community Safety Intervention Officer liaises with local officers to determine what information is held on the young person to bring to the meetings to help aid the case discussion and seek progression.
+
++++
+
+### Choices & Consequences – Yr 6 Students
+
+Note:
+
+Almost 300 year 6 students, professionals and parents took part in a three-day Choices and Consequences event about the dangers of gangs and criminality.
+The event was organised by the Hertsmere Community Safety Partnership and was split in to three sessions held between Monday 16 May and Wednesday 18 May, which included a one-day professional’s event and a two-day Year 6 student event with a parent’s evening.
+The young people, aged 10 to eleven, took part in two days of talks and activities focused on how they can make better choices to prevent them from going down the wrong path, which included bespoke sessions on knife crime, gangs, grooming and coercion alongside advice on emotional wellbeing and coping strategies.
+The professionals attended for a day to hear from experts in serious youth violence and child criminal exploitation, whilst the parents attended an evening session for advice on how to spot the signs that their child might be involved in anti-social behaviour, crime, exploitation or had joined a gang. Students from Summerswood Primary School, St Teresa’s Catholic Primary School and Meryfield Community Primary School took part.
+The event was hosted by Summerswood Primary School. At the event, representatives from the No More Service, Herts MIND, Herts Young Homeless, Beacon, CYP Gangs and Schools, The Football Chance Foundation and the Police Cyber Prevent Team, gave talks alongside Alison Cope, who spoke about losing her son to knife crime and Dimtri Jordan, an ex-gang member, who talked about gangs, specifically their grooming and coercion techniques.
+Feedback from the event has been overwhelmingly positive from professionals, students and parents and plans are already being made for a similar event next year.
+
+https://www.youtube.com/watch?v=CnENb9zy12E
+
++++
+
+### Utilising the services of Probation/Community Payback
+
+Note:
+
+Car loads of rubbish was collected as part of a community clean up in Potters Bar on Monday, 3 May.
+Officers from Hertsmere Borough Council joined forces with Community Payback (part of the Probation Service) to collect rubbish on Cranbourne Parade, an un-adopted road, and transport it to the local tip.
+
+The volunteers spent the day clearing over 30 bags of waste including a Christmas tree, furniture, tyres and other general household waste.
+At the end of the day the rubbish was then taken to Potters Bar Recycling Centre to be disposed of responsibly.
+
++++
+
+### Home Office Safer Streets Initiative Round 2
+
+Note:
+
+In June 2022 Hertsmere was successful in their bid to the Home Office Safer Streets#2 fund.
+The money, from the Government’s Safer Streets Fund was used towards measures proven to cut crime, including simple changes to the design of streets such as environmental enhancements, improved CCTV and community engagement.  
+
+The CCTV cameras in and around Leeming Road have been upgraded and we now have 5 static cameras along with the mobile cameras that are utilised in our ‘hot spot’ anti-social behaviour areas.
+
++++
+
+![](./img/planters2.jpg)
+
+Note:
+
+
+We have held two very successful Community Events – this is the release for the latest one held in April this year:
+All four planters in Aycliffe Road were re-designed utilising Safer Street Funding and have now been adopted by local organisations.
+
 ---
 
 ## Performance Management
@@ -84,7 +190,7 @@ Issues such as contamination, bin rejection etc. are better dealt with by a less
 
 Note:
 
-For the househole waste indicator - given the pressures on the service currently we have been unable to introduce any steps that will significantly change our recycling performance.
+For the household waste indicator - given the pressures on the service currently we have been unable to introduce any steps that will significantly change our recycling performance.
 Our priority has been maintaining collections.
 
 +++
