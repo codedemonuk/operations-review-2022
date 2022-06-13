@@ -6,7 +6,8 @@ revealOptions:
     transition: 'fade'
 ---
 
-<!-- .slide: data-background="./img/jack-b-LtotBngNZZU-unsplash.jpg" -->
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/jack-b-LtotBngNZZU-unsplash.jpg" -->
 ## Community Safety and Performance
 
 Cllr Pervez Choudhury
@@ -36,10 +37,14 @@ I will take questions at the end.
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ## Community Safety
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Hertfordshire Constabulary – Hertsmere Daily Tasking Meetings
 
 Note:
@@ -51,6 +56,8 @@ It reinforces our mutual trust and our partnership approach to community safety 
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Older Person’s Activity Learning and Safety (OPALS) – March 2022
 
 Note:
@@ -59,6 +66,8 @@ The Hertsmere Community Safety Partnership and the Hertfordshire Fire and Rescue
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Hertsmere’s Safer Streets Initiative
 
 Note:
@@ -72,6 +81,8 @@ During the visit, six residents were engaged with, resulting in some referrals t
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Community Trigger
 
 Note:
@@ -86,6 +97,8 @@ Following this review, Community Safety teams from across Hertfordshire and the 
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### The No More Service
 
 Note:
@@ -100,7 +113,10 @@ When a referral for a Hertsmere resident is received, the Community Safety Inter
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Choices & Consequences
+
 Year 6 Students
 
 Note:
@@ -119,6 +135,8 @@ https://www.youtube.com/watch?v=CnENb9zy12E
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Utilising the services of Probation/Community Payback
 
 Note:
@@ -131,6 +149,8 @@ At the end of the day the rubbish was then taken to Potters Bar Recycling Centre
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 ### Home Office Safer Streets Initiative Round 2
 
 Note:
@@ -142,16 +162,20 @@ The CCTV cameras in and around Leeming Road have been upgraded and we now have 5
 
 +++
 
-![](./img/planters2.jpg)
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
+
+![Planters in Aycliffe Road](./img/planters2.jpg)
 
 Note:
 
-
-We have held two very successful Community Events – this is the release for the latest one held in April this year:
+We have held two very successful Community Events.
 All four planters in Aycliffe Road were re-designed utilising Safer Street Funding and have now been adopted by local organisations.
 
 ---
 
+<!-- .slide: data-background-opacity="0.4" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
 ## Performance Management
 
 Note:
@@ -161,6 +185,9 @@ This includes inviting any relevant portfolio holders or officers to discuss any
 The membership of this panel includes members of each of the political parties on the Council.
 
 +++
+
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
 
 | Indicator | Value | Target | Status |
 |---|---|---|---|
@@ -189,6 +216,9 @@ Issues such as contamination, bin rejection etc. are better dealt with by a less
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
+
 | Indicator | Value | Target | Status |
 |---|---|---|---|
 | Percentage of household waste sent for reuse, recycling and composting - Hertsmere Estimate | 45% | 48% | ⚠️ |
@@ -200,6 +230,9 @@ For the household waste indicator - given the pressures on the service currently
 Our priority has been maintaining collections.
 
 +++
+
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
 
 | Indicator | Value | Target | Status |
 |---|---|---|---|
@@ -216,6 +249,9 @@ The attendance award was also reintroduced in April 2022 after a period of suspe
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
+
 | Indicator | Value | Target | Status |
 |---|---|---|---|
 | Participation rates at InspireAll owned leisure facilities | 695,301 | 595,044 | ✅ |
@@ -223,6 +259,9 @@ The attendance award was also reintroduced in April 2022 after a period of suspe
 | Percentage of parks and amenities graded acceptable or above | 100% | 75% | ✅ |
 
 +++
+
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
 
 | Indicator | Value | Target | Status |
 |---|---|---|---|
@@ -232,12 +271,18 @@ The attendance award was also reintroduced in April 2022 after a period of suspe
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
+
 | Indicator | Value | Target | Status |
 |---|---|---|---|
 | Number of households living in temporary accommodation | 75 | 150 | ✅ |
 | Percentage of homelessness cases closed in quarter due to successful prevention | 37% | 30% | ✅ |
 
 +++
+
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
 
 | Indicator | Value | Target | Status |
 |---|---|---|---|
@@ -250,10 +295,14 @@ For rough sleepers, the annual figure of 47 reflects the number of individuals i
 
 ---
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/freestocks-org-540554-unsplash.jpg" -->
 ## Information and Digital Services
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/freestocks-org-540554-unsplash.jpg" -->
 ### Information and Digital Services
 
 - Hybrid working as a result of Covid
@@ -280,6 +329,8 @@ The mobile technology will be a key part of ensuring the new areas allow for sta
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/freestocks-org-540554-unsplash.jpg" -->
 ### Business Systems
 
 - IDOX
@@ -331,6 +382,8 @@ Note:
 
 +++
 
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/freestocks-org-540554-unsplash.jpg" -->
 ### Infrastructure and Service Desk
 
 Note:
@@ -388,6 +441,8 @@ HBC will benefit from the newly built committee rooms with the break out areas t
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ## Human Resources
 
 Note:
@@ -397,6 +452,8 @@ Other areas of HR work were maintained on a business as usual basis including tr
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ### Quarter 1
 
 Note:
@@ -412,6 +469,8 @@ Note:
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ### Quarter 2
 
 Note:
@@ -424,6 +483,8 @@ Note:
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ### Quarter 3
 
 Note:
@@ -439,6 +500,8 @@ Note:
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ### Quarter 4
 
 Note:
@@ -461,6 +524,8 @@ Note:
 
 +++
 
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ### Staffing Capacity
 
 Note:
@@ -473,6 +538,7 @@ It is the overall offer from the employer that is weighed in the minds of job se
 
 ---
 
+<!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ## Credits
 
