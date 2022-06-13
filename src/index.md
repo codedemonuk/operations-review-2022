@@ -473,6 +473,7 @@ It is the overall offer from the employer that is weighed in the minds of job se
 
 ---
 
+<!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
 ## Credits
 
 - Hillary Shade
