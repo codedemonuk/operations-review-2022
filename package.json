@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests\"",
-    "deck": "npx reveal-md src/index.md --watch"
+    "deck": "npx reveal-md src/index.md --css src/css/custom.css --watch"
   },
   "author": "Pervez Choudhury",
   "license": "ISC",
