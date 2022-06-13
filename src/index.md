@@ -40,13 +40,13 @@ I will take questions at the end.
 
 +++
 
-### Hertfordshire Constabulary – Hertsmere Daily Tasking Meetings 
+### Hertfordshire Constabulary – Hertsmere Daily Tasking Meetings
 
 Note:
 
-Since March 2020 either the Community Safety Intervention Officer or Community Safety Manager attends the Police Daily Tasking Meeting, held over Microsoft Teams, chaired by either the Chief Inspector, Inspector or Detective Inspector. 
-The previous 24 hours operational policing in Hertsmere is discussed along with key expectations for the day ahead.  
-Any queries raised regarding housing, tenancy, land ownership, environmental health etc can be resolved in a more timely manner and has proved extremely valuable to both parties. 
+Since March 2020 either the Community Safety Intervention Officer or Community Safety Manager attends the Police Daily Tasking Meeting, held over Microsoft Teams, chaired by either the Chief Inspector, Inspector or Detective Inspector.
+The previous 24 hours operational policing in Hertsmere is discussed along with key expectations for the day ahead.
+Any queries raised regarding housing, tenancy, land ownership, environmental health etc can be resolved in a more timely manner and has proved extremely valuable to both parties.
 It reinforces our mutual trust and our partnership approach to community safety and is now forms part of our normal daily routine.
 
 +++
@@ -90,22 +90,28 @@ Following this review, Community Safety teams from across Hertfordshire and the 
 
 Note:
 
-The No More Youth Service offers complex needs support to individuals to tackle issues which negatively impact on their daily life. 
+The No More Youth Service offers complex needs support to individuals to tackle issues which negatively impact on their daily life.
 They offer intensive support to prolific offenders and those associated with gang, knife crime, anti-social behaviour and county lines and work with individuals up to age 21 or 25 with special educational needs.
+
 Hertsmere has 1 No More Service worker who also covers Watford and Three Rivers. The No More Service cases are monitored in the South West Herts Youth Action Panel (SWYAP) which is held every 4 weeks via MS Teams and has attendance from the No More Service, the local authorities, Police, CYP Gangs & Schools Team, SASH and schools.
 Referrals to the No More Service are received on a regular basis, with 3 being received for Hertsmere in April.
+
 When a referral for a Hertsmere resident is received, the Community Safety Intervention Officer liaises with local officers to determine what information is held on the young person to bring to the meetings to help aid the case discussion and seek progression.
 
 +++
 
-### Choices & Consequences – Yr 6 Students
+### Choices & Consequences
+Year 6 Students
 
 Note:
 
 Almost 300 year 6 students, professionals and parents took part in a three-day Choices and Consequences event about the dangers of gangs and criminality.
 The event was organised by the Hertsmere Community Safety Partnership and was split in to three sessions held between Monday 16 May and Wednesday 18 May, which included a one-day professional’s event and a two-day Year 6 student event with a parent’s evening.
+
 The young people, aged 10 to eleven, took part in two days of talks and activities focused on how they can make better choices to prevent them from going down the wrong path, which included bespoke sessions on knife crime, gangs, grooming and coercion alongside advice on emotional wellbeing and coping strategies.
+
 The professionals attended for a day to hear from experts in serious youth violence and child criminal exploitation, whilst the parents attended an evening session for advice on how to spot the signs that their child might be involved in anti-social behaviour, crime, exploitation or had joined a gang. Students from Summerswood Primary School, St Teresa’s Catholic Primary School and Meryfield Community Primary School took part.
+
 The event was hosted by Summerswood Primary School. At the event, representatives from the No More Service, Herts MIND, Herts Young Homeless, Beacon, CYP Gangs and Schools, The Football Chance Foundation and the Police Cyber Prevent Team, gave talks alongside Alison Cope, who spoke about losing her son to knife crime and Dimtri Jordan, an ex-gang member, who talked about gangs, specifically their grooming and coercion techniques.
 Feedback from the event has been overwhelmingly positive from professionals, students and parents and plans are already being made for a similar event next year.
 
@@ -130,7 +136,7 @@ At the end of the day the rubbish was then taken to Potters Bar Recycling Centre
 Note:
 
 In June 2022 Hertsmere was successful in their bid to the Home Office Safer Streets#2 fund.
-The money, from the Government’s Safer Streets Fund was used towards measures proven to cut crime, including simple changes to the design of streets such as environmental enhancements, improved CCTV and community engagement.  
+The money, from the Government’s Safer Streets Fund was used towards measures proven to cut crime, including simple changes to the design of streets such as environmental enhancements, improved CCTV and community engagement.
 
 The CCTV cameras in and around Leeming Road have been upgraded and we now have 5 static cameras along with the mobile cameras that are utilised in our ‘hot spot’ anti-social behaviour areas.
 
@@ -331,9 +337,9 @@ Note:
 
 - Continuing move of on premise infrastructure to Azure
 - Office 365 and Azure infrastructure backed up to the Azure using Veeam and also staged to AWS for resilience.
-- Equipment provided to officer to facilitate hybrid working environment. 
+- Equipment provided to officer to facilitate hybrid working environment.
   (Extra screens, keyboards, headsets etc.)
-- RDS (Remote Desktop Service) pilot deployed to support the function of legacy system across the VPN and allow the decommissioning of Windows 7 desktops. 
+- RDS (Remote Desktop Service) pilot deployed to support the function of legacy system across the VPN and allow the decommissioning of Windows 7 desktops.
   (After POC for VMWare Horizon proved cost prohibitive.)
 - Migration to cloud telephone system ongoing.
 - Mobile phone contract procured with new supplier.
@@ -361,7 +367,7 @@ Cyber Security
 
 - Most cyber-attacks start with an email
 - We receive an average of 25,000 emails per week and send a similar number.
-- Each week an average of 7,000 additional emails are quarantined and checked by IDS. On average only 100 are released as genuine emails. 
+- Each week an average of 7,000 additional emails are quarantined and checked by IDS. On average only 100 are released as genuine emails.
   This is an accuracy rate of approximately 98.5%.
 - In the last 12 months 2,500 direct cyber-attacks from ‘bad actors’ (Russia, North Korea, China etc.) were blocked.
 - Threat from Phishing, Virus, ransomware and port scanning all looking for vulnerabilities in our cyber defences.
@@ -383,6 +389,87 @@ HBC will benefit from the newly built committee rooms with the break out areas t
 ---
 
 ## Human Resources
+
+Note:
+
+The HR agenda in 2021/22 was dominated by the management of change and new ways of working associated with the pandemic, including the transition back to working in the council’s offices.
+Other areas of HR work were maintained on a business as usual basis including training, sickness absence management, well-being initiatives, Health and Safety management, recruitment, employee relations case management and HR policy development.
+
++++
+
+### Quarter 1
+
+Note:
+
+- The Future Work Design Project was initiated in April 2021, with a Member/Officer Future Work Design Group tasked with bringing forward proposals to the Personnel Committee on the development and implementation of hybrid working.
+- Stakeholder questionnaires for staff and members on remote working established a baseline of views about how effectively people had been supported to work from home during lockdown and generally the feedback was positive, especially the roll out of the IT equipment and the provision of FAQs for staff by the HR team.
+- There was extensive consultation with staff on the corporate risk assessment for a return to working in the Council’s offices and a revised risk assessment was signed off. Individual risk assessments were reviewed to take account of health related issues and concerns about vulnerable family members and to facilitate flexible arrangements to enable people to work around childcare requirements when these were impacted by Covid case levels.
+- The temporary annual leave policies were relaxed and this was welcomed by staff and managers.
+  The temporary policy on staff travel abroad was reviewed and kept in place pending a change in government guidance (this has now been removed).
+- EELGA was appointed to provide consultancy support for the first phase of the FWD project and to generate a clear road map for the transition from majority homeworking to a fully working hybrid model.
+- EELGA carried out an appreciative enquiry (the ‘hearts and minds piece’), in conjunction with the HR team, in which a large proportion of the workforce were engaged in discussion groups about future work design.
+  In addition, two internal questionnaires gathered feedback from staff and elected members on their views and these were shared with the Personnel Committee and the Executive.
+
++++
+
+### Quarter 2
+
+Note:
+
+- The Appreciative Enquiry report was received in July 2021 and the recommendations were shared in an executive summary. The introduction stated that “the people at Hertsmere who have engaged with the survey and the Appreciative Inquiry Focus Groups have a positive view of the organisation in general and are positively motivated to develop a future way of working for the organisation”.  
+  The general consensus was that staff (and at the time Members) would be happy with a return to the offices based on two days a week in the office and three days a week remote working. Staff were looking for family friendly policies and hybrid working arrangements that would support these e.g. asynchronous working hours, hybrid meeting facilities and a generally improved working environment.
+  It was noted that a service led design of workstyles and implementation was requested and that this correlated well with the benchmarking.
+- Transition arrangements were initiated to ensure that staff were gradually acclimatised to carrying out a proportion of their duties in the office, with appropriate Covid-Secure measures in place. HR put guidance in place to support this and service managers organised rotas for team members to attend the offices and carry out the de-cluttering of the office as a preparation for its refurbishment.
+- Enquiries by a potential tenant wishing to access office space in the Civic Offices became a driver for change towards hybrid working as a way of releasing space and offered the prospect of income that could help offset the necessary investment in the refurbishment of the office.
+
++++
+
+### Quarter 3
+
+Note:
+
+- Draft proposals of Heads of Service for service led hybrid working arrangements, were reported to the Personnel Committee and noted.
+  The views of the Managing Director, which did not favour a service led approach, were also reported to the Personnel Committee and noted.
+- The appointment of Move Works space planning consultancy and the programme of action they would be facilitating, was reported to the Personnel Committee and noted.
+- Hybrid working arrangements were planned to be phased in from 1 October 2021, on 2 days a week initially and a revised corporate risk assessment prepared to support this.
+  Feedback from consultation showed that staff were concerned and anxious about the pace of change, in particular the imminent return to the offices.
+  Ultimately, this was pushed back by the Omicron variant and further government directives to work from home where possible.
+- The Personnel Committee was advised of the potential impact on recruitment and retention being a primary reason for developing an effective hybrid working model, given the market for specialist skills being extremely competitive (candidate driven market).
+  An audit of recruitment and retention was proposed.
+
++++
+
+### Quarter 4
+
+Note:
+
+- The review of the Workforce Strategy 2019-2022 was postponed from March 2022 to March 2023.
+- A draft outline Workforce Plan for 2022/23  was approved by the Personnel Committee in February, subject to the outcome of consultation with staff and the approval of any financial implications by the Executive or full Council, as appropriate.
+  The plan focused on a limited range of priorities including the annual pay award and pay reviews in 2022/23; the development of a Hybrid Working Policy; a review of recruitment and retention and a continued focus on sickness absence management.
+- Following extensive consultation with staff, an improved pay award of 4% was agreed in February and subsequently ratified by full Council as part of the Pay Policy Statement 2022/23.
+  The pay award was paid in the April pay run. EELGA recommended that the Council should join the Infinistats on-line pay benchmarking scheme developed by London Boroughs and used by 50% of all local authorities in the South East region as well as 100% of London authorities.
+  Hertsmere is the first local authority in the East of England region to join this and it is hoped will be enabled to conduct its own pay reviews (in tranches starting with Environmental Health, Planning and Asset Management roles) based on access to the data.
+- A raft of recruitment and retention initiatives developed initially to address HGV driver shortages in Street Scene were adapted for wider use in the Council and these policies were approved by the Personnel Committee in April.
+  It was noted that staff turn over was around 11% in the 12 months to the end of January 2022 but that anecdotal evidence suggested it could be rising and would need to be closely monitored.
+  The outcomes of the SIAS audit of Recruitment and Retention were received at the end of March and are referenced in the Update on the Workforce Plan report to the June Personnel Committee.
+- From 31 January 2022, staff returned to working in the Council’s offices a minimum of 2 days a week and this increased to 3 days a week from 1 April 2022, with the lifting of government restrictions on Covid.
+  A new Hybrid Working Policy has been drafted (in line with the specific instructions of the Managing Director) and this is currently the subject of consultation with staff.
+  There has not yet been an outcome from the SIAS audit of time recording and staff performance management systems in 2021/22.
+  However, a great deal of work has been done by HR providing regular reports to the SMT, including a ‘location tracker’ report to confirm that officers are in working in the offices at least 3 days a week pro rata and that they are not being allowed to take annual leave on ‘office days’ as a way round the requirement.
+- Sickness levels have increased in recent months and the report on sickness absence addresses some of the reasons for this (primarily Covid related and surgical interventions that had been postponed during the peaks of the pandemic).
+  The zero sickness pay award was re-introduced with effect from 1 April 2022 and it is hoped that this will assist in reducing short term sickness absence levels.
+
++++
+
+### Staffing Capacity
+
+Note:
+
+The corporate risk assessment on staffing capacity has recently been increased to reflect the external market.
+There is a risk that the recruitment/retention measures will not be sufficient to reduce this risk significantly.
+Most other employers are facing the same problems and employing the same remedies to tackle them.
+It is unlikely that any one of our measures will secure the desired changes but a combination of measures, together with good general employment policies, may minimise the risk to organisational capacity.
+It is the overall offer from the employer that is weighed in the minds of job seekers in the current employment market and therefore these measures must be seen as components in a coherent overall marketing strategy.
 
 ---
 
@@ -406,9 +493,7 @@ I would like the thank the above staff for providing information which helped in
 
 Note:
 
-Thank you.
-
-I will now take questions.
+Thank you for giving me this time today and I will now take questions.
 
 ---
 
