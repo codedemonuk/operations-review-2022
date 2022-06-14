@@ -52,6 +52,7 @@ Note:
 Since March 2020 either the Community Safety Intervention Officer or Community Safety Manager attends the Police Daily Tasking Meeting, held over Microsoft Teams, chaired by either the Chief Inspector, Inspector or Detective Inspector.
 The previous 24 hours operational policing in Hertsmere is discussed along with key expectations for the day ahead.
 Any queries raised regarding housing, tenancy, land ownership, environmental health etc can be resolved in a more timely manner and has proved extremely valuable to both parties.
+
 It reinforces our mutual trust and our partnership approach to community safety and is now forms part of our normal daily routine.
 
 +++
@@ -62,7 +63,9 @@ It reinforces our mutual trust and our partnership approach to community safety 
 
 Note:
 
-The Hertsmere Community Safety Partnership and the Hertfordshire Fire and Rescue Service worked collaboratively to host the Older Person’s Activity Learning and Safety (OPALS) event at the Wyllyotts Theatre, in Potters Bar on 31 March 2022. Over 30 residents attended and were able to receive information and advice from a number of organisations including: Hertfordshire Trading Standards, Age UK, Beacon Victim Care, MIND and the Alzheimer’s Society. The event was very well received, with the majority of attendees feeding back that the event was either excellent or good.
+The Hertsmere Community Safety Partnership and the Hertfordshire Fire and Rescue Service worked collaboratively to host the Older Person’s Activity Learning and Safety (OPALS) event at the Wyllyotts Theatre, in Potters Bar on 31 March 2022. Over 30 residents attended and were able to receive information and advice from a number of organisations including: Hertfordshire Trading Standards, Age UK, Beacon Victim Care, MIND and the Alzheimer’s Society. 
+
+The event was very well received, with the majority of attendees feeding back that the event was either good or excellent.
 
 +++
 
@@ -91,9 +94,13 @@ The Community Trigger is designed to give victims of anti-social behaviour (ASB)
 The Community Trigger can be used if a person has complained to Hertsmere Borough Council, the police and/or a registered housing provider (social landlord) on 3 or more occasions about separate incidents in the past 6 months.
 Each incident must have been reported within one month of it happening. This is the threshold for a community trigger review.
 
-Each area previously chaired their own community trigger review meetings, however advice and best practice from consultant agencies have suggested that reviews be chaired by an independent individual: ideally an officer who works within ASB but not for the local authority, Police or housing association in question.
+Each area previously chaired their own community trigger review meetings, however advice and best practice from consultant agencies have suggested that reviews be chaired by an independent individual - ideally an officer who works within ASB but not for the local authority, Police or housing association in question.
+
 Hertsmere’s Community Safety Intervention Officer acted as an independent chair for Welwyn & Hatfield Council in February 2022 and it was felt that having an independent chair meant there was no professional bias upon the case discussion and allowed for a fresh perspective and a higher level of scrutiny on the case management.
-Following this review, Community Safety teams from across Hertfordshire and the HCC Community Safety Unit met and CSPs formally agreed to chair each other’s case reviews or act as an independent case review panel member for future reviews. HCC have put together a Terms of Reference for the process which has been agreed by the areas and submitted to the OPCC.
+
+Following this review, Community Safety teams from across Hertfordshire and the HCC Community Safety Unit met and CSPs formally agreed to chair each other’s case reviews or act as an independent case review panel member for future reviews. 
+
+Hertfordshire County Council have put together a Terms of Reference for the process which has been agreed by the areas and submitted to the OPCC.
 
 +++
 
@@ -165,12 +172,35 @@ The CCTV cameras in and around Leeming Road have been upgraded and we now have 5
 <!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
 
-![Planters in Aycliffe Road](./img/planters2.jpg)
+![Herts Community Event](./img/202203_HERTSCOMMUNITYEVENT-14.jpeg)
 
 Note:
 
 We have held two very successful Community Events.
-All four planters in Aycliffe Road were re-designed utilising Safer Street Funding and have now been adopted by local organisations.
+
+Despite the cold weather over 250 local residents had a great time at a free community event in Borehamwood on Saturday 2nd April.
+
+Local people from across the town came together for an afternoon of games, sports and refreshments, whilst being able to find out the Hertsmere Community Safety Partnership.
+
+At the event, representatives from Hertfordshire Constabulary, Hertsmere Borough Council, Clarion Housing, Herts Mind Network, OneYMCA, Leecliffe Big Local and many more attended, providing information, advice and support to local residents on how they can support them.
+
++++
+
+<!-- .slide: data-background-opacity="0.5" -->
+<!-- .slide: data-background="./backgrounds/timothy-rose-593048-unsplash.jpg" -->
+
+![Planters in Aycliffe Road](./img/planters2.jpg)
+
+Note:
+
+More than 20 local people and community representatives gathered alongside councillors, council officers and John O’Conner Grounds Maintenance, to help rejuvenate the planters in Aycliffe Road, Borehamwood.
+
+The planters have been reduced in height and reshaped to discourage anti-social behaviour in the area, as well as transform them into a colourful display in time for the Queen’s Platinum Jubilee celebrations.
+
+The scheme followed a successful bid to the Home Office Safer Streets Fund drawing on the clear links between a well-maintained area helping to promote communal awareness and pride.
+Match funding was also provided by Big Local.
+
+Local businesses and community groups - Aycliffe Road Day Centre, Herts Mind, the 1372 Squadron RAF Air Cadets and St Michaels Church and All Angels Church  – have each adopted a planter and suggested a range of plants along the themes of majesty, wellbeing, ecology and diversity, and memory.
 
 ---
 
@@ -180,9 +210,11 @@ All four planters in Aycliffe Road were re-designed utilising Safer Street Fundi
 
 Note:
 
-As portfolio holder for performance, I have an Executive Panel which meets quarterly to discuss council performance and discuss matters of concern.
+As portfolio holder for performance, I have an Executive Panel which meets quarterly to discuss council performance and matters of concern.
 This includes inviting any relevant portfolio holders or officers to discuss any areas of concern within their departments.
 The membership of this panel includes members of each of the political parties on the Council.
+
+I will quickly go through the indicators and discuss any areas where performance was below target.
 
 +++
 
@@ -197,7 +229,20 @@ The membership of this panel includes members of each of the political parties o
 
 Note:
 
-For the Council Tax collected indicator:
+Council Tax collection has been challenging all year but worsened after the Omicron Variant.
+The ongoing rise in living costs is also having a negative impact on collection.
+
++++
+
+<!-- .slide: data-background-opacity="0.2" -->
+<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
+
+| Indicator | Value | Target | Status |
+|---|---|---|---|
+| Percentage of household waste sent for reuse, recycling and composting - Hertsmere Estimate | 45% | 48% | ⚠️ |
+| Number of missed collections per 100,000 collections | 45 | 60 | ✅ |
+
+Note:
 
 Given the pressures on the service currently we have been unable to introduce any steps that will significantly change our recycling performance.
 Our priority has been maintaining collections.
@@ -213,21 +258,6 @@ As we understand the detail of the Government’s proposals we will bring forwar
 
 A key part of this is ensuring a reliable and resilient collection regime. We have a solid core of established staff but are still very reliant on agency staff where we currently see higher turnover.
 Issues such as contamination, bin rejection etc. are better dealt with by a less transient workforce and so our recruitment and retention plans are also key to improving our recycling rate.
-
-+++
-
-<!-- .slide: data-background-opacity="0.2" -->
-<!-- .slide: data-background="./backgrounds/patrick-hendry-QjTy6avy-20-unsplash.jpeg" -->
-
-| Indicator | Value | Target | Status |
-|---|---|---|---|
-| Percentage of household waste sent for reuse, recycling and composting - Hertsmere Estimate | 45% | 48% | ⚠️ |
-| Number of missed collections per 100,000 collections | 45 | 60 | ✅ |
-
-Note:
-
-For the household waste indicator - given the pressures on the service currently we have been unable to introduce any steps that will significantly change our recycling performance.
-Our priority has been maintaining collections.
 
 +++
 
@@ -318,7 +348,7 @@ HBC Staff have been returning back to work and this has led to our Hybrid workin
 
 ### Migration of systems to Cloud
 
-To allow this new way of working to be a success we have commenced with a migration of our systems to the Cloud and also working to enable a mobile and agile workforce.
+To allow this new way of working to be a success we have continued with the migration of our systems to the Cloud and also working to enable a mobile and agile workforce.
 The technology will take some time to bed in and engineer the transition of data and systems access to the cloud, and we will also need to allow time to train staff to use the updated systems.
 
 ### Improvement to Workforce
@@ -341,7 +371,7 @@ The mobile technology will be a key part of ensuring the new areas allow for sta
 
 Note:
 
-### GENERAL
+The IDS team have:
 
 - Provided data for FOI responses for Environmental Health and Licensing, Parking, Planning, Finance, IDS
 - System setup and testing for Windows 7 replacement platforms (Azure, Horizon, RDS)
@@ -386,6 +416,11 @@ Note:
 <!-- .slide: data-background="./backgrounds/freestocks-org-540554-unsplash.jpg" -->
 ### Infrastructure and Service Desk
 
+- Elstree Studio Support
+- Future Work Design
+- Cyber Security
+- Upcoming projects
+
 Note:
 
 - Continuing move of on premise infrastructure to Azure
@@ -413,8 +448,7 @@ Future Work Design
 - New committee rooms to be equipped with hybrid meeting AV and webcasting.
 - Meeting rooms to be equipped for hybrid meetings.
 - Chambers AV system to be reviewed.
-- Councillor devices and needs to be reviewed.
-- Expand Civic Offices Wifi.
+- Councillor devices and requirements to be reviewed.
 
 Cyber Security
 
@@ -435,10 +469,6 @@ Planned projects for next 6 months
 - Meeting room technology refresh
 - Remote Desktop Cloud solution
 
-IDS are currently investing other technologies available for improving our meeting areas, and look forward to using integration with Teams as a way of efficiently managing meeting room resource.
-
-HBC will benefit from the newly built committee rooms with the break out areas to enhance our experience using latest technology.
-
 ---
 
 <!-- .slide: data-background-opacity="0.5" -->
@@ -454,7 +484,8 @@ Other areas of HR work were maintained on a business as usual basis including tr
 
 <!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
-### Quarter 1
+### Human Resources
+Quarter 1
 
 Note:
 
@@ -471,7 +502,8 @@ Note:
 
 <!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
-### Quarter 2
+### Human Resources
+Quarter 2
 
 Note:
 
@@ -485,7 +517,8 @@ Note:
 
 <!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
-### Quarter 3
+### Human Resources
+Quarter 3
 
 Note:
 
@@ -502,7 +535,8 @@ Note:
 
 <!-- .slide: data-background-opacity="0.5" -->
 <!-- .slide: data-background="./backgrounds/perry-grone-732606-unsplash.jpg" -->
-### Quarter 4
+### Human Resources
+Quarter 4
 
 Note:
 
